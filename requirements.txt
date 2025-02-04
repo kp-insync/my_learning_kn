@@ -1,3 +1,8 @@
 ipykernel
 numpy
 pandas
+openpyxl
+bs4
+html5lib
+lxml
+openpyxl
